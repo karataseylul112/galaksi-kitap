@@ -1,4 +1,4 @@
-#  [GAlaksi2 / Portfoliom] - Dijital Okuma & Takip Platformu
+#  [Galaksi2 / Portfoliom] - Dijital Okuma & Takip Platformu
 
 > Okurların hikayeyi bölüm bölüm okuyabileceği, gidişatı ve güncellemeleri anlık olarak takip edebileceği interaktif dijital kitap platformu.
 
